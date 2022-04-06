@@ -1,0 +1,227 @@
+Grapheme	IPA	Frequence	Codepoints
+aiθ	ai θ
+aiʁ	ai ʁ
+aiɣ	ai ɣ
+ais	ai s
+ain	ai n
+^ain	ai n
+aia	a i/j a
+aik	ai k
+aiːn	a iː n
+oia	o i/j a
+eɪ	eɪ
+au	au
+aʊ	aʊ
+ea	ea
+eːa	eːa
+iɐ	i/j ɐ
+ia	i/j a
+ɛɪɐ	ɛ ɪ/j ɐ
+io	i/j o
+ɪoː	ɪ/j oː
+ioː	i/j oː
+ɪo	ɪ/j o
+ua	u/w a
+uʊ	u/w ʊ
+uo	u/w o
+ya	y/ɥ a
+ɪa	ɪ/j a
+ʊa	ʊ/w a
+ɪaː	ɪ/j aː
+ʊaː	ʊ/w aː
+ɛʊ	ɛu
+ɪʊ	ɪ/j ʊ
+awk	au k
+awp	au p
+owt	ou t
+awg	au g
+owt	ou t
+owɾ	ou ɾ
+ɐ̃ʊ̃	ɐ̃ʊ̃
+eːaː	eː aː
+iɐ̃	i/j ɐ̃
+aɪ	aɪ
+uwt	w/u t
+uws	w/u s
+uwk	w/u k
+uwʒ	w/u ʒ
+uwd	w/u d
+uwg	w/u g
+uwv	w/u v
+uwɾ	w/u ɾ
+uwz	w/u z
+uwʃ	w/u ʃ
+uwp	w/u p
+iw$	iu̯
+əw	əu̯
+a	a	12177	U+0061
+e	e	9542	U+0065
+i	i	8524	U+0069s
+t	t	8155	U+0074m
+m	m	7944	U+006dm
+r	r	7885	U+0072p
+o	o	7047	U+006f 
+n	n	6736	U+006et
+ɛ	ɛ	6625	U+025bs
+k	k	6112	U+006bp
+l	l	5649	U+006cp
+kkʰ	kʰː                                           p
+s	s	5332	U+0073
+ʊ	ʊ	4259	U+028a
+p	p	4228	U+0070
+d	d	3975	U+0064
+ɾ	ɾ	3926	U+027e
+ɪ	ɪ	3866	U+026a
+u	u	3863	U+0075
+b	b	2140	U+0062
+aː	aː	2104	U+0061 U+02d0
+ʁ	ʁ	2048	U+0281
+j	j	2013	U+006a
+f	f	1934	U+0066
+ɔ	ɔ	1816	U+0254
+ɹ	ɹ	1601	U+0279
+ɐ	ɐ	1559	U+0250
+ɡ	g	1534	U+0261
+v	v	1283	U+0076
+oː	oː	1198	U+006f U+02d0
+ɨ	ɨ	1015	U+0268
+ŋ	ŋ	869	U+014b
+ə	ə	851	U+0259
+iː	iː	843	U+0069 U+02d0
+θ	θ	819	U+03b8
+z	z	799	U+007a
+eː	eː	742	U+0065 U+02d0
+y	y	736	U+0079
+ʃ	ʃ	638	U+0283
+ɔ̃	ɔ̃	620	U+0254 U+0303
+tʃ	tʃ	562	U+0074 U+0283
+w	w	548	U+0077
+β	β	543	U+03b2
+ð	ð	532	U+00f0
+ɐ̃	ɐ̃	514	U+0250 U+0303
+uː	uː	512	U+0075 U+02d0
+ts	ts	510	U+0074 U+0073
+ks	k s	396	U+006b U+0073
+ns	n s	383	U+006e U+0073
+ll	lː	375	U+006c U+006c
+ʒ	ʒ	366	U+0292
+ʊ̃	ʊ̃	346	U+028a U+0303
+dʒ	dʒ	316	U+0064 U+0292
+ɑ̃	ɑ̃	306	U+0251 U+0303
+kw	kʷ	291	U+006b U+0077
+x	x	252	U+0078
+ɛ̃	ɛ̃	246	U+025b U+0303
+^-	NULL	233	U+002d
+ss	sː	225	U+0073 U+0073
+ɣ	ɣ	217	U+0263
+tt	tː	207	U+0074 U+0074
+ɲ	ɲ	191	U+0272
+rr	rː	177	U+0072 U+0072
+ʎ	ʎ	170	U+028e
+ŋs	ŋ s	164	U+014b U+0073
+h	h	127	U+0068
+kk	kː	126	U+006b U+006b
+mm	mː	119	U+006d U+006d
+nn	nː	116	U+006e U+006e
+pp	pː	105	U+0070 U+0070
+ɑ	ɑ	104	U+0251
+rs	r s	101	U+0072 U+0073
+œ	œ	96	U+0153
+bs	b s	84	U+0062 U+0073
+ø	ø	83	U+00f8
+ũ	ũ	75	U+0169
+ff	fː	68	U+0066 U+0066
+ɡw	gʷ	59	U+0261 U+0077
+kʰ	kʰ	55	U+006b U+02b0
+nw	n w	53	U+006e U+0077
+ʁs	ʁ s	48	U+0281 U+0073
+lw	l w	47	U+006c U+0077
+ls	l s	47	U+006c U+0073
+pʰ	pʰ	45	U+0070 U+02b0
+ps	p s	42	U+0070 U+0073
+tʰ	tʰ	42	U+0074 U+02b0
+tʃʃ	tʃː	41	U+0074 U+0283 U+0283
+rw	r w	41	U+0072 U+0077
+dʒʒ	dʒː	41	U+0064 U+0292 U+0292
+tw	t w	40	U+0074 U+0077
+ɾs	ɾ s	33	U+027e U+0073
+bb	bː	32	U+0062 U+0062
+ŋʒ	ŋ ʒ	32	U+014b U+0292
+ʁʒ	ʁ ʒ	27	U+0281 U+0292
+ɲɲ	ɲː	26	U+0272 U+0272
+sw	s w	22	U+0073 U+0077
+vw	v w	21	U+0076 U+0077
+dd	dː	20	U+0064 U+0064
+kss	k sː	20	U+006b U+0073 U+0073
+tss	tsː	19	U+0074 U+0073 U+0073
+βs	β s	18	U+03b2 U+0073
+bʒ	b ʒ	17	U+0062 U+0292
+dw	d w	15	U+0064 U+0077
+ɡɡ	gː	15	U+0261 U+0261
+zz	zː	15	U+007a U+007a
+ʊʊ	ʊː	14	U+028a U+028a
+pw	p w	14	U+0070 U+0077
+mw	m w	14	U+006d U+0077
+ee	eː	13	U+0065 U+0065
+ws	w s	11	U+0077 U+0073
+vv	vː	10	U+0076 U+0076
+fw	f w	10	U+0066 U+0077
+ʁʃ	ʁ ʃ	9	U+0281 U+0283
+rh	r h	9	U+0072 U+0068
+ʁw	ʁ w	8	U+0281 U+0077
+tsʲ	tsʲ	8	U+0074 U+0073 U+02b2
+ʝ	ʝ	8	U+029d
+ŋʃ	ŋ ʃ	7	U+014b U+0283
+ksh	k s h	6	U+006b U+0073 U+0068
+bw	b w	6	U+0062 U+0077
+ɣw	ɣ w	5	U+0263 U+0077
+nh	n h	5	U+006e U+0068
+βw	β w	5	U+03b2 U+0077
+yː	yː	5	U+0079 U+02d0
+nʲ	nʲ	5	U+006e U+02b2
+ʃs	ʃ s	5	U+0283 U+0073
+œ̃	œ̃	4	U+0153 U+0303
+nʒ	n ʒ	4	U+006e U+0292
+ɔɔ	ɔː	4	U+0254 U+0254
+dʲ	dʲ	3	U+0064 U+02b2
+ɔː	ɔː	3	U+0254 U+02d0
+oo	oː	3	U+006f U+006f
+lʲ	lʲ	3	U+006c U+02b2
+ʒw	ʒ w	3	U+0292 U+0077
+ɾʲ	ɾʲ	3	U+027e U+02b2
+nʃ	n ʃ	3	U+006e U+0283
+zw	z w	3	U+007a U+0077
+xw	x w	3	U+0078 U+0077
+tʲ	tʲ	3	U+0074 U+02b2
+vʲ	vʲ	2	U+0076 U+02b2
+bʲ	bʲ	2	U+0062 U+02b2
+rʲ	rʲ	2	U+0072 U+02b2
+kʲ	kʲ	2	U+006b U+02b2
+wʃ	w ʃ	2	U+0077 U+0283
+-$	NULL
+-	+
+uu	uː	2	U+0075 U+0075
+ʃʲ	ʃʲ	2	U+0283 U+02b2
+θw	θ w	2	U+03b8 U+0077
+dʒʲ	dʒʲ	2	U+0064 U+0292 U+02b2
+zʲ	zʲ	2	U+007a U+02b2
+kʷ	kʷ	2	U+006b U+02b7
+ksw	k s w	2	U+006b U+0073 U+0077
+bh	b h	1	U+0062 U+0068
+mʲ	mʲ	1	U+006d U+02b2
+dʒw	dʒ w	1	U+0064 U+0292 U+0077
+ðs	ð s	1	U+00f0 U+0073
+ðw	ð w	1	U+00f0 U+0077
+ms	m s	1	U+006d U+0073
+lʃ	l ʃ	1	U+006c U+0283
+rʒ	r ʒ	1	U+0072 U+0292
+tʃʲ	tʃʲ	1	U+0074 U+0283 U+02b2
+wʒ	w ʒ	1	U+0077 U+0292
+øː	øː	1	U+00f8 U+02d0
+ɾsw	ɾ s w	1	U+027e U+0073 U+0077
+ɛː	ɛː	1	U+025b U+02d0
+pʲ	pʲ	1	U+0070 U+02b2
+nsw	n s w	1	U+006e U+0073 U+0077
+ʃw	ʃ w	1	U+0283 U+0077
+ɡʒ	g ʒ	1	U+0261 U+0292
+ʁsw	ʁ s w	1	U+0281 U+0073 U+0077
