@@ -7,33 +7,16 @@
     ],
     "creators": [
         {
-            "name": "Uday Raj Aaley"
+            "name": "Carlo Meloni"
         },
         {
-            "name": "Timotheus A. Bodt"
+            "name": "Shauli Ravfogel"
+        },
+        {
+            "name": "Yoav Goldberg"
         }
     ],
     "contributors": [
-        {
-            "name": "Uday Raj Aaley",
-            "type": "RightsHolder"
-        },
-        {
-            "name": "Uday Raj Aaley",
-            "type": "Distributor"
-        },
-        {
-            "name": "Timotheus A. Bodt",
-            "type": "RightsHolder"
-        },
-        {
-            "name": "Timotheus A. Bodt",
-            "type": "Distributor"
-        },
-        {
-            "name": "Mei-Shin Wu",
-            "type": "Other"
-        },
         {
             "name": "Johann-Mattis List",
             "type": "Other"
@@ -47,5 +30,6 @@
     "upload_type": "dataset",
     "license": {
         "id": "CC-BY-4.0"
-    }
+    },
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Meloni, Carlo and Ravfogel, Shauli and Yoav Goldberg (2021): Ab Antiquo: Neural Proto-language Reconstruction. Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 4460\u20134473, June 6\u201311.</p>\n</blockquote>"
 }

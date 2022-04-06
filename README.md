@@ -3,7 +3,9 @@
 ## How to cite
 
 If you use these data please cite
-this dataset using the DOI of the [particular released version](../../releases/) you were using
+- the original source
+  > Meloni, Carlo and Ravfogel, Shauli and Yoav Goldberg (2021): Ab Antiquo: Neural Proto-language Reconstruction. Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 4460–4473, June 6–11.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
@@ -37,9 +39,9 @@ Available online at https://github.com/shauli-ravfogel/Latin-Reconstruction-NAAC
 
 Name | GitHub user | Description | Role |
 --- | --- | --- | --- |
-Uday Raj Aaley| |publication author, fieldwork | Author, RightsHolder, Distributor
-Timotheus A. Bodt| | publication author, fieldwork, orthography profile | Author, RightsHolder, Distributor
-Mei-Shin Wu | @macyl | patron, maintainer | Other
+Carlo Meloni | | original data preparation | Author
+Shauli Ravfogel | | original data preparation | Author 
+Yoav Goldberg | | original data preparation | Author
 Johann-Mattis List | @LinguList| orthography profile, maintainer | Other
 
 

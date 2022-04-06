@@ -3,5 +3,5 @@
     "title": "CLDF dataset derived from Meloni et al.'s \"Neural Proto-language Reconstruction\" from 2021",
     "license": "CC-BY-4.0",
     "url": "https://github.com/shauli-ravfogel/Latin-Reconstruction-NAACL/edit/main/romance-ipa.txt",
-    "citation": ""
+    "citation": "Meloni, Carlo and Ravfogel, Shauli and Yoav Goldberg (2021): Ab Antiquo: Neural Proto-language Reconstruction. Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pages 4460–4473, June 6–11."
 }
